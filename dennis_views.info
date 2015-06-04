@@ -1,0 +1,7 @@
+name = Dennis Views Plugins
+description = Extends and adds functionality to views module
+core = 7.x
+package = Views
+dependencies[] = views
+files[] = handlers/views_handler_argument_term_node_tid_depth_join.inc
+files[] = handlers/views_handler_filter_term_node_tid_depth_join.inc
